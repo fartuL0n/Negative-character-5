@@ -1,0 +1,54 @@
+body {background-color: #A63600;}
+
+main img { width:280px;
+height:280px;
+}
+
+header {text-align: center;
+background-color: #FFCF73;}
+
+header h1 {background-color: #FF5300	;
+color: white;}
+
+header h2 {background-color: white;font-size: 25px;}
+
+header p {background-color: #FF5300	;
+font-size: 20px;
+color: white;
+}
+
+header a { color: black;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;}
+
+     main h1 {background-color: #FF7E40;font-size: 30px;
+     font-family: Verdana, sans-serif;}
+
+    main p {font-size: 20px; color: white; background-color: #FF7E40;}
+    h3 {background-color:#FF7E40;
+    font-size: 30px;
+     font-family: Verdana, sans-serif;}
+
+     footer {background-color: #FF5300	;font-size: 25px; 
+     color: white;}
+
+     main a {color: black;
+    background-color: #FF7E40;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid #FF7E40;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;}
+
+
+     
+
+     
